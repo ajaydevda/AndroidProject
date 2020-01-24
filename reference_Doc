@@ -1,0 +1,8 @@
+Bluetooth connection steps
+
+1. request the necessary Bluetooth permissions
+2. enable Bluetooth on your phone
+3. get a list of paired devices
+4. scan and display a list of nearby Bluetooth devices
+5. establish a Bluetooth connection between two devices
+6. send and receive data over a Bluetooth connection
